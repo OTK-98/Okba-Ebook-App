@@ -125,7 +125,7 @@ class _HomePageState extends State<HomePage> {
                                 if (bookController.featuredBooks().isEmpty) {
                                   return Center(
                                     child: Text(
-                                      'لم يتم العثور على أي كتاب',
+                                      'لم يتم العثور على أي كتب',
                                       style: Theme.of(context)
                                           .textTheme
                                           .bodyMedium!
