@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667327915174",
+    "project_id": "e-book-okba-store",
+    "storage_bucket": "e-book-okba-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667327915174:android:ecd4d91fae123d93b8c067",
+        "android_client_info": {
+          "package_name": "com.example.e_book_okba_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGV__w21x19nHrWk4G8SEwPx88HDzCIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
