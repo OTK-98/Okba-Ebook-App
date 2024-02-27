@@ -44,3 +44,4 @@ app.*.map.json
 
 # Secure Pages
 AuthController.dart
+fffff.dart
