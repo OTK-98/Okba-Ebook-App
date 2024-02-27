@@ -36,7 +36,7 @@ jobs:
         with:
           artifacts: "build/app/outputs/apk/debug/*"
           tag: v1.0.${{ github.run_number }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
       # push to master , main
       #pull request on main master
